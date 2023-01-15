@@ -1,0 +1,14 @@
+.project-item {
+  width: 18vw;
+  margin: 10px;
+}
+.project-image {
+  width: 100%;
+  border-radius: 5px;
+}
+.project-name {
+  font-family: Roboto;
+  color: #475569;
+  font-weight: 600;
+  text-align: center;
+}

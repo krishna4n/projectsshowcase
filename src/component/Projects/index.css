@@ -1,0 +1,40 @@
+.projects-container {
+  padding: 2%;
+  padding-left: 8%;
+  width: 100vw;
+}
+
+.category {
+  height: 5vh;
+  width: 35vw;
+  border: 1px solid #cbd5e1;
+  outline: none;
+  border-radius: 5px;
+}
+.retry-button {
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #328af2;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.failure-view-container {
+  text-align: center;
+  padding: 30%;
+}
+.projects-list {
+  margin-left: -50px;
+}
+.loading-container {
+  text-align: center;
+  padding: 30%;
+}
+.projects-list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
